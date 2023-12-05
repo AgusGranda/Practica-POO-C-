@@ -1,0 +1,16 @@
+F:\Programacion\C#\Nivel2\Ado.net\Practica-HastaM7-2\Pokemons\bin\Debug\Pokemons.exe.config
+F:\Programacion\C#\Nivel2\Ado.net\Practica-HastaM7-2\Pokemons\bin\Debug\Pokemons.exe
+F:\Programacion\C#\Nivel2\Ado.net\Practica-HastaM7-2\Pokemons\bin\Debug\Pokemons.pdb
+F:\Programacion\C#\Nivel2\Ado.net\Practica-HastaM7-2\Pokemons\obj\Debug\Pokemons.csproj.AssemblyReference.cache
+F:\Programacion\C#\Nivel2\Ado.net\Practica-HastaM7-2\Pokemons\obj\Debug\Pokemons.frmPokemons.resources
+F:\Programacion\C#\Nivel2\Ado.net\Practica-HastaM7-2\Pokemons\obj\Debug\Pokemons.frmAgregar.resources
+F:\Programacion\C#\Nivel2\Ado.net\Practica-HastaM7-2\Pokemons\obj\Debug\Pokemons.Properties.Resources.resources
+F:\Programacion\C#\Nivel2\Ado.net\Practica-HastaM7-2\Pokemons\obj\Debug\Pokemons.csproj.GenerateResource.cache
+F:\Programacion\C#\Nivel2\Ado.net\Practica-HastaM7-2\Pokemons\obj\Debug\Pokemons.csproj.CoreCompileInputs.cache
+F:\Programacion\C#\Nivel2\Ado.net\Practica-HastaM7-2\Pokemons\obj\Debug\Pokemons.exe
+F:\Programacion\C#\Nivel2\Ado.net\Practica-HastaM7-2\Pokemons\obj\Debug\Pokemons.pdb
+F:\Programacion\C#\Nivel2\Ado.net\Practica-HastaM7-2\Pokemons\bin\Debug\dominio.dll
+F:\Programacion\C#\Nivel2\Ado.net\Practica-HastaM7-2\Pokemons\bin\Debug\negocio.dll
+F:\Programacion\C#\Nivel2\Ado.net\Practica-HastaM7-2\Pokemons\bin\Debug\dominio.pdb
+F:\Programacion\C#\Nivel2\Ado.net\Practica-HastaM7-2\Pokemons\bin\Debug\negocio.pdb
+F:\Programacion\C#\Nivel2\Ado.net\Practica-HastaM7-2\Pokemons\obj\Debug\Pokemons.csproj.CopyComplete
